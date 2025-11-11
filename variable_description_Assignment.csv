@@ -1,0 +1,8 @@
+Variable Name,Description,
+annual_inc,The self-reported annual income provided by the borrower during registration.,
+int_rate,Interest Rate on the loan,
+last_pymnt_amnt,Last total payment amount received,
+loan_amnt,"The listed amount of the loan applied for by the borrower. If at some point in time, the credit department reduces the loan amount, then it will be reflected in this value.",
+loan_status,Current status of the loan,
+tot_cur_bal,Total current balance of all accounts,
+installment,The monthly payment owed by the borrower if the loan originates.,

